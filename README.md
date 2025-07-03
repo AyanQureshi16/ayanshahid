@@ -1,4 +1,4 @@
-# ayanshahid16
+# ayanshahid
 
 <h1 align="center">Hi 👋, I'm Ayan Shahid</h1>
 <h3 align="center">Frontend Web Developer | HTML • CSS • JavaScript</h3>
